@@ -7,6 +7,7 @@
  * @n: value to be evaluated
  * Return: not
  */
+
 void print_array(int *a, int n)
 {
 	int x;
