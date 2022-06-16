@@ -18,5 +18,6 @@ void print_buffer(char *b, int size);
 void printASCII(char *b, int start, int end); 
  void printHexes(char *b, int start, int end);
 int isPrintableASCII(int n);
+int main(void);
 
 #endif
